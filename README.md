@@ -1,30 +1,22 @@
-# 🎙️ VoxMate AI
+## 🚀 Development Progress
 
-### Your Personal AI Voice Assistant
+### Day 15 — VoxMate AI
 
-An AI-powered voice assistant that can listen,
-understand, think, and respond using Artificial Intelligence.
+An AI-powered multilingual voice assistant built using Python and Hugging Face.
 
-## 🚀 Project Goals
+**Completed:**
+- [x] Project structure setup
+- [x] Python environment configuration
+- [x] Whisper Tiny model integration
+- [x] Speech-to-text implementation
+- [x] Successful voice transcription testing
 
-- 🎤 Speech Recognition
-- 🧠 AI-Powered Conversations
-- 🔊 Text-to-Speech
-- 🌍 Multilingual Support
-- 💬 Conversation History
+**Currently Building:**
+- [ ] Hugging Face AI Brain
+- [ ] Text-to-Speech integration
+- [ ] Conversation memory
+- [ ] Gradio interface
+- [ ] Hugging Face Spaces deployment
 
-## 🛠️ Tech Stack
-
-- Python
-- Hugging Face
-- Whisper
-- Gradio
-- PyTorch
-
-## 📌 Project Status
-
-🚧 Under Development
-
-## 👨‍💻 Developer
-
-Vignesh U
+### 🛠️ Tech Stack
+Python • Whisper • PyTorch • Hugging Face • Gradio • Edge TTS
