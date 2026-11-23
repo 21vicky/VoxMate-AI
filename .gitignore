@@ -1,0 +1,39 @@
+
+@'
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Generated audio
+outputs/*
+!outputs/.gitkeep
+test_audio.mp3
+*.wav
+*.mp3
+
+# Model files
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.safetensors
+
+# Gradio cache
+.gradio/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+'@ | Set-Content -Path .gitignore -Encoding UTF8
