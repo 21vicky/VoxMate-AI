@@ -16,6 +16,12 @@ VoxMate AI is a personal voice assistant that listens to voice commands, convert
 - 🖥️ Interactive Gradio web interface
 - 🔒 Local AI inference without per-request API charges
 
+## 📸 Screenshots
+
+### VoxMate AI — Command Center
+
+![VoxMate Dashboard](assets/voxmate-dashboard.png)
+
 ## 🏗️ Project Architecture
 
 ```mermaid
